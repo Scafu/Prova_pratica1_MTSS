@@ -1,6 +1,7 @@
 2101050
 2101049
-[Processori](processori.md)
-[schede madri](schede_madri.md)
+componenti
+[Processori](componenti/processori.md)
+[schede madri](componenti/schede_madri.md)
 
 Elettronica Padovana
