@@ -1,7 +1,8 @@
 2101050
 2101049
-componenti
+# Componenti
 [Processori](componenti/processori.md)
-[schede madri](componenti/schede_madri.md)
-# Periferiche 
+[Schede Madri](componenti/schede_madri.md)
+# Periferiche
+[Tastiere](periferiche/tastiere.md) 
 Elettronica Padovana
